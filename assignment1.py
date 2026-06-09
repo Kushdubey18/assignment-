@@ -38,3 +38,6 @@ numbers.sort()
 print("After sort():", numbers)
 print("Length of the list:", len(numbers))
 print("Occurrence of 20:", numbers.count(20))
+
+
+# q4.............
