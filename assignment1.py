@@ -41,3 +41,14 @@ print("Occurrence of 20:", numbers.count(20))
 
 
 # q4.............
+
+tpl=(1,2,2,4)
+print(len(tpl))
+print(tpl[0])
+print(tpl[-1])
+print(tpl[0:4])
+print(max(tpl))
+print(min(tpl))
+print(sum(tpl))
+
+
