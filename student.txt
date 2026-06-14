@@ -1,0 +1,3 @@
+Name: Kush, Marks: 85
+Name: Rahul, Marks: 72
+Name: Priya, Marks: 90
